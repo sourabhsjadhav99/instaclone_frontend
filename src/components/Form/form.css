@@ -1,0 +1,36 @@
+.form-container{
+    width:500px;
+    border: 1px solid rgb(206, 202, 202);
+    border-radius: 5px;
+    padding: 20px 0px;
+    text-align: center;
+    box-shadow: 3px 3px 3px 3px  rgb(206, 202, 202);
+    margin: 0 auto;
+    position: relative;
+    top:50px
+    
+}
+input{
+    border: 1px solid rgb(206, 202, 202);
+}
+#formFile{
+    width:400px;
+}
+#author-box, #location-box{
+    width: 170px;
+    height: 25px;
+
+}
+#author-box{
+    margin-right: 50px;
+}
+#description-box{
+    width: 400px;
+    height: 25px;
+}
+form div{
+    margin-bottom: 10px;
+}
+button{
+    width: 150px;
+}

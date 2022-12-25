@@ -1,0 +1,25 @@
+#HeaderContainer{
+    border: 1px solid rgb(216, 212, 212);
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+.camera{
+    width: 40px;
+    height: 40px;
+}
+.logo-text{
+    font-size: 48px;
+    color: #006238;
+    margin-left: 12px;
+    position: relative;
+    bottom: 15px;
+
+}
+.logo {
+    width: 50px;
+  }

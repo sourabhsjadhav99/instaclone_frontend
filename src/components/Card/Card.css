@@ -1,0 +1,55 @@
+.container{
+    background-color: white;
+    /* height:500px; */
+    width: 500px;
+    border: 1px solid rgb(216, 212, 212);
+    box-shadow: 2px 2px 2px 2px rgb(216, 212, 212);
+    border-radius: 5px;
+    margin:20px auto;
+    box-sizing: border-box;
+
+}
+#likes,#share{
+    width:25px;
+    height: 25px;
+    margin:0 0 0 10px
+
+}
+#date{
+    margin:0 10px 0 0
+}
+.mainImg{
+    width:100%;
+    height:250px;
+    margin: 0;
+    padding: 0;
+   
+    
+}
+.subContainer1{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 15px 0 15px;
+
+}
+.subContainer2{
+    margin: 0;
+    padding: 0;
+}
+.location,.likes{
+    margin:0 
+}
+
+.subContainer3{
+    display: flex;
+    justify-content: space-between;
+    
+
+}
+.subContainer4{
+    padding: 0 0 15px 15px;
+}
+
+.likes,.location{
+    color: gray;
+}
